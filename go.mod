@@ -1,4 +1,4 @@
-module github.com/klauspost/reedsolomon
+module github.com/celestiaorg/reedsolomon
 
 go 1.22
 
